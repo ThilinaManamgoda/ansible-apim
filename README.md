@@ -1,4 +1,4 @@
-# WSO2 API Management Ansible scripts
+# WSO2 API Management Ansible scriptss
 
 This repository contains the Ansible scripts for installing and configuring WSO2 API Management.
 
