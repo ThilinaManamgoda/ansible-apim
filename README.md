@@ -146,3 +146,4 @@ Add the configurations to the `custom.yml`. A sample is given below.
 ```
 
 Follow the steps mentioned under `docs` directory to customize/create new Ansible scripts and deploy the recommended patterns.
+s
